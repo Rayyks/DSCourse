@@ -1,4 +1,4 @@
-# Project Name
+# Course App (Udemy Clone not clown)
 
 I like goth girls.
 
